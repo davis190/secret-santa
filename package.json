@@ -1,0 +1,21 @@
+{
+    "name": "secret-santa",
+    "version": "0.1.0",
+    "description": "nodejs app to randomize secret santa year over year",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "fast-csv": "^2.4.1"
+    },
+    "engines": {
+        "node": "4.0.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/heroku/node-js-sample"
+    },
+    "author": "Clayton Davis",
+    "license": "MIT"
+}
